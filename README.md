@@ -10,3 +10,11 @@ LISTAS:
 ÁRBOL BINARIO:
  - Árbol binario (implementación dinámica)
  - Recorridos en profundidad y en anchura (para ello se facilita el TAD Cola necesario para el recorrido en anchura)
+
+PILA:
+ - Pila estática
+ - Pila dinámica
+
+COLA:
+ - Cola estática
+ - Cola dinámica
