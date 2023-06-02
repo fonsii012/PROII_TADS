@@ -16,5 +16,5 @@ PILA:
  - Pila dinámica
 
 COLA:
- - Cola estática
- - Cola dinámica
+ - Cola estática (static_queue)
+ - Cola dinámica (queue)
