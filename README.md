@@ -3,7 +3,7 @@ Implementación de los TADS explicados en PRO II en la UDC
 
 LISTAS:
  - Lista estática
- - Lista dinámica
+ - Lista dinámica doblemente enlazada
  - Lista estática ordenada
  - Lista dinámica ordenada
 
